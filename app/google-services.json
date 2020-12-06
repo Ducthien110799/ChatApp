@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "514510312875",
+    "firebase_url": "https://appchatrealtime-8f23b.firebaseio.com",
+    "project_id": "appchatrealtime-8f23b",
+    "storage_bucket": "appchatrealtime-8f23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514510312875:android:8256264a9f38c05b7eeeee",
+        "android_client_info": {
+          "package_name": "thien.cntt.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514510312875-eajralv1fhr022uu6qqojlu3bvfa76h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-D1zk_Ju2O6ab2iGjJBv3rD5prXXC1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514510312875-eajralv1fhr022uu6qqojlu3bvfa76h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514510312875:android:c001f2078f90cb267eeeee",
+        "android_client_info": {
+          "package_name": "thien.cntt.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514510312875-eajralv1fhr022uu6qqojlu3bvfa76h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-D1zk_Ju2O6ab2iGjJBv3rD5prXXC1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514510312875-eajralv1fhr022uu6qqojlu3bvfa76h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
